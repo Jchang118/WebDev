@@ -1,4 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "livePreview.defaultPreviewPath": "/6.4 Motivation Meme Project/index.html"
 }
